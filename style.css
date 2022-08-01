@@ -93,3 +93,21 @@ h1 {
 .green-background span{
     background-color: rgba(18,137,5,1);
 }
+
+.title-america {
+    background-image: url(../odin-recipes/images/gettyimages-1267475105-2048x2048.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 80px;
+    text-align: center;
+}
+
+.subtitle-america span {
+    background: rgb(60,59,110);
+    background: linear-gradient(146deg, rgba(60,59,110,1) 0%, rgba(255,255,255,1) 42%, rgba(255,255,255,1) 61%, rgba(178,34,52,1) 100%);
+    font-size: x-large;
+    border: 1px black solid;
+    padding: 10px;
+    font-weight: bold;
+
+}
